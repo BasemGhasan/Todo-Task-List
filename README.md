@@ -11,4 +11,4 @@ A simple Todo List website built with HTML, CSS, and JavaScript, deployed on Ver
 <br>
 
 ## 🌐 **Live Demo**
-Experience the portfolio live at: https://todo-task-list-beryl.vercel.app/
+Experience the project live at: https://todo-task-list-beryl.vercel.app/
