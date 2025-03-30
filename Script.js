@@ -24,6 +24,7 @@ const addTask = () => {
         span.innerHTML = "\u00d7";
         li.appendChild(span);
 
+        reorderTasks();
         saveData();
     }
     taskInput.value = "";
